@@ -1,0 +1,252 @@
+Autor,Título,Género
+"Segal, Erich",Love Story Historia de amor (Novela),Romance
+Alvarez y Otros,Nexos (Poesía),Poesía
+"Sheldon, Sidney",Mas alla de la medianoche (Novela),Novela
+"Saénz, Dalmiro",Mujer ganadora La novela de ser una misma,Novela
+Quiroga Horacio,A la deriva y otros cuentos,Cuentos
+"Allende, Isabel",La casa de los espíritus,Novela
+"Montesco, Lola",Lady Di . Los Protagonistas,Biografía
+Cámara Argentina del Libro,Vamos a leer cuentos argentinos,Cuentos
+Alvarez Marta,Gabriel el Enviado (Poesía),Poesía
+"Luna, Félix",Julio A. Rocca. Grandes Protagonistas de la Hist. Arg.,Biografía
+"Luna, Félix",José de San Martín. Grandes Protagonistas de la Hist. Arg.,Biografía
+"Luna, Félix",Juan B. Alberdi. Grandes Protagonistas de la Hist. Arg.,Biografía
+"Steimbeck, John",La taza de oro (Novela histórica),Novela Histórica
+"Haasse, Hella S.",La ciudad escarlata (Novela histórica),Novela Histórica
+"Mahfuz, Naguib",Akhenatón (Novela histórica),Novela Histórica
+"Dyer, Wayne W.",El camino de la perfección (Pensamientos que ayudan a mejorar),Autoayuda
+"Otero,Rodolfo",El secreto del Torreón Negro,Misterio
+"Eddy, Paul",Una cara de la moneda,Misterio
+"Sueiro, Victor",Más allá de la vida,Espiritualidad
+NOTICIAS Edición Homenaje,René Favaloro. De La Pampa a Los Estados Unidos,Biografía
+"Averbach, Luján y Otros",20 de animales,Cuentos
+"Applegate, K. A.",Lo olvidado,Fantasía
+"Cazenave, Walter y Otros",Epopeyas Pampeanas,Historia
+"Salgari, Emilio",Los dos tigres,Aventura
+"Pairault, Suzanne",Lassie y Joe,Infantil
+"Stevenson, Robert Lois",La Isla del Tesoro,Aventura
+"Alcott, Luisa M.",Hombrecitos,Novela
+"Twain, Mark",Aventuras de Tom Sawyer,Aventura
+Ediciones SOLQUIN,La Caperucita Roja,Infantil
+Colección Pasatiempos,Caperucita Roja,Infantil
+Ediciones SOLQUIN,El Patito Feo,Infantil
+"Andersen, H. C.",El Patito Feo,Infantil
+LATIN BOOKS,El Colibrí y Las Flores,Infantil
+"Cinetto, Liliana",El Chivo y La Hormiga,Infantil
+Disney,La Bella y La Bestia,Infantil
+Disney,Princesa de Porcelana,Infantil
+"Granata, María",El Río Turuntún y una Orquesta Original,Infantil
+Colección Arlequín,La Sirenita,Infantil
+"Vigil, Constancio C.",La liebre y la tortuga,Infantil
+"Dalmais, Anne Marie",Piscolabis a medianoche,Infantil
+"Cabal, Graciela Beatriz",Una cadena muy importante,Infantil
+Publicaciones Fher,Peter Pan,Infantil
+Estrella de Mar,La Bella y La Bestia,Infantil
+LATINBOOKS,El respeto por la vida,Infantil
+Distribuidora Valenciana,Los tres cerditos,Infantil
+Diney,Tierra de Osos,Infantil
+Disney,Chicken little,Infantil
+Disney,Buscando a Nemo. El reencuentro,Infantil
+Foundatión Books S.A.,La Cenicienta,Infantil
+"Serrano, Maria Laura",Gatos y Gatitos,Infantil
+"Wadswoth, Wallace C.",Los siete gatos maravillosos,Infantil
+"Sonneborn, Ruth A.",Alguién está comiendo al sol,Infantil
+"Heap, Sue",Espera y Verás,Infantil
+"Asor, Mercedes",Caballito,Infantil
+Disney,Bambi 2,Infantil
+Biblioteca SALVAT,Viajes Espaciales,Ciencia
+"Scgmitz, Siegfried",Terrario Ciencia Juvenil,Ciencia
+"De La Grange, Francois - Reille, Antoine",Las aves y sus secretos,Ciencia
+"León, María Teresa",El Cid Campeador,Historia
+"de Carvantes Saavedra, Miguel",Rinconete y cortadillo,Novela
+Biblioteca SALVAT,Viajes Espaciales,Ciencia
+"Fernández de Moratín, Leandro",El si de las niñas,Teatro
+"Obligado, Rafael",Poesías completas,Poesía
+"Benavente, Jacinto",Los intereses creados,Teatro
+"De la Barca, Calderón",El Alcalde de Zalamea,Teatro
+"De la Barca, Calderón",La vida es sueño,Teatro
+"Melville, Hernán",Bartley el escribiente,Novela
+"Hoffmann, E. T. A.",El Voto,Novela
+Stendhal,Vanina Vanini,Novela
+"Chesterton, Gilbert Keith",El Paraíso de los ladrones,Novela
+"London, Jack",El hombre de la cicatriz y otras narraciones,Novela
+"Hoffmann, E .T. A.",La casa vacía,Novela
+"Chesterton, Gilbert Keit",Las muertes de los Pendragon,Novela
+"Griene, Grahan",El Terder Hombre,Novela
+"De Rojas, Fernanado",La Celestina,Novela
+"De Quevedo, Francisco",La vida del buscón llamado Don Pablos,Novela
+"Becquer, Gustavo A.","Rimas, Artículos y Leyendas,Poesía
+"De Maupassant, Guy",Cuentos de guerra,Cuentos
+"De Maupassant, Guy",Un parricida,Cuentos
+Stendhal,Vanina Vanini,Novela
+"García Lorca, Federico",Doña Rosita La Soltera,Teatro
+De Maupossant,Magnetismo y otros cuentos,Cuentos
+"Melville, Hermann","Belly Bud, Marinero,Novela
+"García Lorca, Federico",Doña Rosita La Soltera,Teatro
+"Mayor de Piérola, Amanda","Amanda, dolor y esperanza,Novela
+"De Maupassant, Guy",Un Parricida,Cuentos
+"Wells, Hebert G.",La máquina del tiempo,Ciencia Ficción
+"Fernández de Moratín, Leandro",El Sí de las Niñas,Teatro
+"de L'Isle, Villiers - Philippe, Adam",Vox Populi y otros cuentos crueles,Cuentos
+"De Maupassant, Guy",Cuentos de guerra,Cuentos
+"Hernández, Miguel",Antología,Poesía
+"Melville, Herman",Benito Sereno,Novela
+"De Cervantes Saavedra, Miguel",La Gitanilla,Novela
+"Becquer, Gustavo Adolfo",Rimas,Poesía
+"Bullrich, Silvina",¿A qué hora murió el enfermo?,Novela
+"Quiroga, Horacio",El Potro Salvaje,Cuentos
+Stendhal,Los Cenci. La Duquesa de Palliano,Novela
+"Terzi, Mariela - Ortega, Emilio",100 Barcos de Vapor,Infantil
+"Wilde, Oscar",El Fantasma de Canterville,Novela
+Autor,Título,Género
+Stendhal,Relatos,Cuentos
+"Gorki, Maximo",Malva,Novela
+"Gogol, Nicolás",El Retrato,Cuentos
+"Kipling, Rudyard",Rikki - Tikki - Tavi y otras historias de la selva,Cuentos
+"Conan Doyle, Arthr",El carbúmclo azul,Misterio
+"Bande, Manuel",Fortín La Soledad,Novela
+"Valera, Juan",Pepita Jiménez,Novela
+"Bullrich, Silvina",Mañana digo basta,Novela
+"de Ibarbourou, Juana",Chico Carlo,Novela
+"Casona, Alejandro",Los árboles mueren de pie,Teatro
+Asociación Santafesina de Escritores,Mesa de Homenajes,Ensayo
+"London, Jack",Diablo,Novela
+"Machado, Antonio",Antología,Poesía
+"de Cervantes Saavedrta, Miguel",Novelas Ejemplares,Novela
+"Flavín, Martín",El Hechizado,Novela
+"London, Jack",La huelga general,Novela
+"Renata, Eugenia",Podemos juntar flores,Novela
+"Conrad, Josepe",La posada de las dos brujas,Novela
+"Machado, antonio",Los Máximos Creadores,Poesía
+"Chejov, Anton",El Monje Negro,Cuentos
+"Neruda, Pablo",Los Máximos Creadores,Poesía
+"Lafond, Jaques",Las mejores recetas con soja,No Ficción
+WATCH TOWER BIBLE AND TRACT SOCIETY OF,PENNSILVANIA INTERNATIONAL BIBLE STUDENTS,Religión
+"Vecchioli, Mario R.",Obra Poética édita e inédita,Poesía
+"Seton, Anya",Verde Oscuridad -Novela Romántica,Romance
+"Bande, Manuel",Cuentos de por aquí nomas,Cuentos
+Goethe,Werther,Novela
+"Conan Doyle, Arthur",Sherlock Holmes El aristócrata solterón,Misterio
+"de Quincey, Thomas",La rebelión de los tártaros,Novela
+"Bierce, Ambrose",Los ojos de la pantera y otros relatos,Cuentos
+"Bierce, Ambrose",Un jinete por el cielo,Cuentos
+"Chesterton, Gilbert Keith",El candor del Padre Brown,Misterio
+"Sabato, Ernesto",Informe sobre ciegos,Novela
+"Bret Harte, Francis",El MONTE DEL Diablo y otros relatos,Cuentos
+"Goglo, Nikolai V.",El Capote,Cuentos
+"Kafka,Franz",La Metamorfosis,Novela
+"Bullrich, Silvina",Los Pasajeros del Jardín,Novela
+"Ribeiro, Alex",¿Quién ganó la COPA MUNDIAL?,Deportes
+"Puig, Manuel",Boquitas pintadas,Novela
+"Ramos-Olivera, Antonio",La Vida de un Rey Memorias del duque de Windsor,Biografía
+Imaginador,Diseños de tortas para fiestas,No Ficción
+"Cornwell, Patricia",Predator,Misterio
+"De Santais, Pablo",El enigma de París,Misterio
+"Colin A, Roman",Secretos del cosmos,Ciencia
+"De Vega, Lope",FUENTEOVEJUNA,Teatro
+"Del Campo, Estanislao",FAUSTO,Teatro
+"De Rojas, Fernanado",La Celestina,Novela
+"Dumas, Alejandro",Los Tres Mosqueteros,Aventura
+READER'S DIGEST COLECCIÓN DE LIB. SELECTOS,Libros Selectos,Antología
+READER'S DIGEST COLECCIÓN DE LIB. SELECTOS,Libros Selectos,Antología
+"Baum, Vicky",El lago de las damas,Novela
+"Dayub, Gerardo A.",Gestión Cultural en Entre Ríos,No Ficción
+"Beloff, Mary Ana y Otros",Cuadernos de la carcel,No Ficción
+Ministerio de Salud y Acción Social,Funciones Esenciales de Salud Pública,No Ficción
+"Truffer, Isabel - Storani, Silvia M.",El Campo de Ciencia y Tecnología de la UNER,No Ficción
+"Chomsky, Noam - Petra, James - Morley, Morris",Clinton La Política del actual Gobierno de EE. UU.,No Ficción
+"Renata, Eugenia",Podemos juntar flores PARTE 1,Novela
+"Renata, Eugenia",Podemos juntar flores PARTE 2,Novela
+"Renata, Eugenia",Podemos juntar flores PARTE 3,Novela
+"Orgambide, Pedro",Ezequiel Martínez Estrada ANTOLIGIA,Antología
+"Gorini, Ulises",Tópicos utópicos - dialogos con la izquierda europea,Ensayo
+"Gilio, María Esther",Conversaciones,Ensayo
+"Di Stefano, Maria",Españoles Antología de Cuentos 1980-1993,Antología
+"Villafañe, Javier",Antología Personal,Antología
+"Alvarez, Patricia",Ecos del Sur la otra Ecología,Ensayo
+"Orgambide, Pedro",Gauchos y Soldados,Historia
+"Tomossi, Jorge",Crónicas casi reales,Ensayo
+"Moreno, Horacio",Lo Fantastico cuentos de realidad e imaginación,Cuentos
+"Preidemberg, Daniel",En la noche historias despues de hora,Cuentos
+"Dottori, Nora - Lafforgue, Jorge",Las Fronteras,Ensayo
+"Mayer, Marcos",El Peronismo Historias de una pasión argentina,Historia
+"Puiggros, Adriana - Waldman, Fabiana",La educación ¿Hacia que fututro mira?,Ensayo
+"Shakespeare, William",Hamlet,Teatro
+"De Miguel, María Esther",un dandy en la corte del Rey Alfonso,Novela
+"Fernández Díaz, Jorge",Mamá,Novela
+"Orwell, george",1 9 8 4,Ciencia Ficción
+"Bioy Casares, Adolfo y Borges, Jorge Luis",Los mejores cuentos Policiales (Selección),Policial
+"García Márquez, Gabriel",La mala hora,Novela
+"García Márquez, Gabriel",Ojos de perro azul,Cuentos
+"García Marquez, Gabriel",Relato de un Naufrago,Novela
+"Simenon, Georges",El asesino del canal,Policial
+"Puzo, Mario",Los Tontos Mueren,Novela
+"Miller, Henry",La crucifixión rosada NEXUS,Novela
+"Wesr, Morris",El Navegante,Novela
+"Kinsale, Laura",El corazón escondido,Romance
+"Fernanadez De La Reguera, Ricardo",Experimento,Novela
+Historias Bíblicas,Mi libro de Historias Bíblicas,Religión
+116 p. ; 15 cm.,,No Ficción
+"de Wahite, Elena G.",El Camino a Cristo,Religión
+"Sagan, Carl",La conexión cósmica,Ciencia
+"McNaught, Judith",Mentira de Amor,Romance
+"Maurois, Andre",Napoleón,Biografía
+"Camus, Albert",La peste,Novela
+"Heller, Jane",Falsa identidad,Novela
+"Parquer, Alan",El beso del Incauto,Novela
+"Crusie, jennifer",La falsificadora (grandes novelistas),Novela
+"Conan Doyle, Arthur",El regreso de Sherlock Holmes,Misterio
+"Poe, Edgar Alan",Cuentos de humor y sátira,Cuentos
+"Quinn, Daniel",A.D. El año que cambió el mundo (grandes novelistas),Novela
+"Conan Doyle, Arthur",Relatos de misterio,Misterio
+Autor,Título,Género
+"Christie, Agatha",El misterio del tren azul,Misterio
+"Christie, Agatha",Intriga en Bagdad,Misterio
+"Christie, Agatha",Los elefantes pueden recordar,Misterio
+"Christie, Agatha",El espejo roto,Misterio
+"Christie, Agatha",Cianuro espumoso,Misterio
+"Poe, Edgar Alan",Cuentos de horror y misterio,Horror
+"Lapajufker, Marcelo",Hay dos cartas sin abrir,Novela
+"Argentina : Ed. El Autor, 2007 ;  il. ; 310 p.; 21 cm.",ISBN : 978-987-05-3595-9,No Ficción
+"Feinmann, José Oablo",Peronismo Filosofía polítiva de una persistencia argentina,Ensayo
+"Rozitchner, Leon",Las desventuras del sujeto político,Ensayo
+"Alvarado, Maite",El Lecturón II La máquina de hacer lectores,Educación
+"Chapra, Steven C. - Canale, Raymond P.",Métodos numéricos para ingenieros,Educación
+"Osorio, Fernanado",¿Qué función cumplen los padres de un niño?,Educación
+"Coelho, Paulo",Palabras esenciales II,Autoayuda
+"Devetach, Laura",Cuento de los enrredos,Infantil
+"Cortázar, Julio",Cuentos completos 1,Cuentos
+"Balagurusamy, E.",Programación orientada a objetos con c++,Educación
+"Grimaldi, Ralph P.",Matemáticas discreta y combinatoria,Educación
+QUINO,Mafalda inedita,Humor
+QUINO,Humano se nace,Humor
+"Fazzio, Adriana","Niñez, Familia y Derechos Humanos,Ensayo
+"Coelho, Paulo",La Bruja de Portobello,Novela
+"De Santis, Pablo",Los anticuarios,Misterio
+"Cook, Robin",Cuerpo extraño,Thriller Médico
+"Hood, Robin",El Proscipto,Aventura
+"Allende, Isabel",El plan infinito,Novela
+"Cooh, Robin",ADN,Thriller Médico
+"Freire, Hector J.",El Cine en su laberinto,Ensayo
+"Castellano, Emanuel",El libro mágico de Harry Potter,Infantil
+"Rowling, J. K.",Harry Potter y el cáliz de fuego,Fantasía
+"Rowling, J. K.",Harry Potter y el prisionero de Azkaban,Fantasía
+"García Márquez, Gabriel",El amor en los tiempos del cólera,Romance
+"Piglia, Ricardo",Blanco nocturno,Novela
+"Piglia, Ricardo",Plata quemada,Novela
+"Bonasso, Miguel",Diario de un clandestino,Memorias
+"Balmaceda, Daniel",Biografía no autorizada de 1910,Biografía
+"Galeano, Eduardo",El libro de los abrazos,Ensayo
+"Devetach, Laura",Cuentos del Paí Luchi,Infantil
+"García Márquez, Gabriel",Vivir para contarla,Memorias
+"García Márquez, Gabriel",Cien años de soledad,Novela
+"Argentina : Ed. Sudamericana, 2009 : 494 p. ; 18 cm.",ISBN : 987-1138-14-8,No Ficción
+"Stamateas, Bernardo",AUTOBOICOT Cuando el tóxico es uno mismo,Autoayuda
+"Brown, Dan",El Código Da Vinci,Thriller
+"De Santis, Pablo",Páginas mezcladas,Novela
+"De Santis, Pablo",Desde el ojo del pez,Novela
+"Rapoport, Mario",Las políticas económicas de la Argentina,Ensayo
+"Sabato, Hilda",Pueblo y Política la construcción de la Arg. Moderna,Ensayo
+"Arreche, Araceli y Otros",El Teatro y Los Niños,Educación
+"Rowling, J. K.",Harry Potter y las reliquias de la muerte,Fantasía
+"Brown, Dan",Angeles y Demonios,Thriller
